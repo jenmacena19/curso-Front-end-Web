@@ -1,2 +1,2 @@
 # curso-html
-Curso feito na Rockeat, ligada a maratona Discover e principios basicos de front-end.
+Curso feito na Rockeseat, ligada a maratona Discover e principios basicos de front-end.
