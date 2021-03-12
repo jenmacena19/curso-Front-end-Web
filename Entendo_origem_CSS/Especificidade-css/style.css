@@ -1,0 +1,37 @@
+#my-title {
+    color: red;
+}
+
+#my-title,
+ #my-title strong{
+    color: palevioletred;
+}
+
+.tittle {
+    color: royalblue;
+}
+
+h1 {
+    color: pink !important;
+}
+
+* { 
+    color: gray;
+}
+
+/* Especificidade */ 
+
+/* At Rules
+    - Está relacionado ao comportamento do CSS
+    - Começa com sinal de "@" seguido de identificador de valor
+
+    Shorthand
+    https://developer.mozilla.org/pt-BR/docs/Web/CSS/Shorthand_properties
+
+
+    Funções
+    - nome seguido de abre e fecha parenteses
+    - recebe argumentos
+    Ex: 
+    color: rgb (250, 0, 0)
+*/

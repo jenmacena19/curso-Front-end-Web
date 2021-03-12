@@ -1,0 +1,13 @@
+@import 'https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Redressed&display=swap';
+
+/* Não recomendável pois irá ser feito uma busca pela fonte, precisando de mais tempo para carregar página */ 
+
+
+h1 {
+    color: aqua;
+    font-family: 'Akaya Telivigala', cursive;
+}
+
+strong {
+    color: blueviolet;
+}
